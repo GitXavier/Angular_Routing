@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-app-routing"
+    }
+  },
+  "defaultProject": "my-app-routing",
+  "cli": {
+    "analytics": "503cd32f-6563-4b44-a9c2-90b9d010bc41"
+  }
 }
